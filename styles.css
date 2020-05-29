@@ -1,0 +1,15 @@
+head {
+    background-color: chartreuse;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: lighter;
+    text-align: center;
+}
+body {
+    background-color: blue;
+    font-family: 'Courier New';
+    font-style: italic;
+    font-weight: bold;
+    text-align: justify;
+    background-image: url(C:\Users\User\Pictures\land-s.jpg);
+}
